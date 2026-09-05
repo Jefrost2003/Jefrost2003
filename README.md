@@ -1,4 +1,4 @@
-👋 Hey, I'm Jefrost!
+👋 Hey, I'm Jefford!
 💻 Developer • 🚀 Builder • 🌱 Lifelong Learner
 
 Welcome to my corner of GitHub! I'm Jefrost, a developer who enjoys turning ideas into code, learning new technologies, and building projects one commit at a time.
