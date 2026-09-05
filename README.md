@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jefford</h1>
+<h1 align="center">Hi 👋, I'm Jefford R. Inato</h1>
 <h3 align="center">A passionate frontend developer from Davao City, Philippines</h3>
 
 - 🔭 I’m currently working on [LIC-82-INATO — My first GitHub project where I'm practicing Git, GitHub, JavaScript, and project development.](https://github.com/Jefrost2003/LIC-82-INATO)
