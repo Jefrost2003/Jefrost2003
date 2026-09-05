@@ -76,6 +76,4 @@ I believe every great developer started with "Hello, World!" — I'm starting mi
 
 ---
 
-If you'd like, I can:
-- commit this README change to a new branch and open a pull request for you, or
-- add badges, GitHub stats, and project screenshots (I can prepare these if you want).
+
